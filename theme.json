@@ -1,0 +1,20 @@
+{
+    "dark": true,
+    "canvasColor": "#1e222b",
+    "cardColor": "#262b36",
+    "primaryColor": "#ff5725",
+    "hoverColor": "#ff5725",
+    "dividerColor": "#1e222b",
+    "hintColor": "#757575",
+    "focusColor": "#ff5725",
+    "appBarTheme": {
+        "color": "#262b36"
+    },
+    "bottomNavigationBarTheme": {
+        "selectedItemColor": "#ff5725",
+        "backgroundColor": "#262b36"
+    },
+    "bottomAppBarTheme": {
+        "color": "#262b36"
+    }
+}
