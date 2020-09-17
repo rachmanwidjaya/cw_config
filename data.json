@@ -1,0 +1,22 @@
+{
+    "status": true,
+    "message": "Request Acepted",
+    "content": [
+        {
+            "name": "West Manga",
+            "list": {
+                "target": "https://westmanga.info/page/[page]/",
+                "get": {
+                    "type": 1,
+                    "string": "black",
+                    "get": {
+                        "type": 1,
+                        "string": "item"
+                    }
+                }
+            },
+            "search": "https://westmanga.info/page/[page]/?s=[keyword]&post_type=manga",
+            "tags": "https://westmanga.info/genre/[keyword]/page/[page]/"
+        }
+    ]
+}
