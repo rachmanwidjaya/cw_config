@@ -1,0 +1,11 @@
+{
+    "status": true,
+    "message": "Request Acepted",
+    "content": {
+        "version": "20.8.1",
+        "build": 2081,
+        "description": "-Fixed Bug",
+        "UpdateLink": "https://google.com/",
+        "UpdateRequired": false
+    }
+}
