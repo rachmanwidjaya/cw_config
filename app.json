@@ -2,10 +2,10 @@
     "status": true,
     "message": "Request Acepted",
     "content": {
-        "version": "20.8.3",
-        "build": 2083,
+        "version": "20.8.2",
+        "build": 2082,
         "description": "-Fixed Bug",
         "UpdateLink": "https://google.com/",
-        "UpdateRequired": true
+        "UpdateRequired": false
     }
 }
