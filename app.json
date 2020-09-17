@@ -6,6 +6,6 @@
         "build": 2083,
         "description": "-Fixed Bug",
         "UpdateLink": "https://google.com/",
-        "UpdateRequired": false
+        "UpdateRequired": true
     }
 }
