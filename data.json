@@ -9,6 +9,7 @@
                 "get": {
                     "type": 1,
                     "string": "black",
+                    "int": 0,
                     "get": {
                         "type": 1,
                         "string": "item"
