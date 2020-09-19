@@ -12,24 +12,51 @@
                     "int": 0,
                     "get": {
                         "type": 1,
-                        "string": "item"
-                    }
-                }
-            },
-            "search": "https://westmanga.info/page/[page]/?s=[keyword]&post_type=manga",
-            "tags": "https://westmanga.info/genre/[keyword]/page/[page]/"
-        },
-        {
-            "name": "West Manga",
-            "list": {
-                "target": "https://westmanga.info/page/[page]/",
-                "get": {
-                    "type": 1,
-                    "string": "black",
-                    "int": 1,
-                    "get": {
-                        "type": 1,
-                        "string": "item"
+                        "string": "item",
+                        "item": {
+                            "title": {
+                                "type": 2,
+                                "string": "h2",
+                                "int": 0,
+                                "result": {
+                                    "type": "text"
+                                }
+                            },
+                            "image": {
+                                "type": 2,
+                                "string": "img",
+                                "int": 0,
+                                "result": {
+                                    "type": "attributes",
+                                    "string": "src"
+                                }
+                            },
+                            "target": {
+                                "type": 2,
+                                "string": "a",
+                                "int": 0,
+                                "result": {
+                                    "type": "attributes",
+                                    "string": "href"
+                                }
+                            },
+                            "updateTime": {
+                                "type": 1,
+                                "string": "imdb",
+                                "int": 0,
+                                "result": {
+                                    "type": "text"
+                                }
+                            },
+                            "chapter": {
+                                "type": 1,
+                                "string": "year",
+                                "int": 0,
+                                "result": {
+                                    "type": "text"
+                                }
+                            }
+                        }
                     }
                 }
             },
