@@ -2,10 +2,10 @@
     "status": true,
     "message": "Request Acepted",
     "content": {
-        "version": "20.10.1",
-        "build": 20101,
-        "description": "-Fixed Bug",
+        "version": "20.10.2",
+        "build": 20102,
+        "description": "-Fixed Bug\n-Add News Feature",
         "UpdateLink": "https://google.com/",
-        "UpdateRequired": false
+        "UpdateRequired": true
     }
 }
