@@ -2,10 +2,10 @@
     "status": true,
     "message": "Request Acepted",
     "content": {
-        "version": "20.11.0",
-        "build": 20110,
+        "version": "20.11.1",
+        "build": 20111,
         "description": "-Fixed Bug\n-Add News Feature",
-        "UpdateLink": "http://ge.tt/9Jf65q83",
+        "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/blob/master/kc/kc_20.11.1.apk?raw=true",
         "UpdateRequired": true
     }
 }
