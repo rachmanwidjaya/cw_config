@@ -6,6 +6,6 @@
         "build": 20111,
         "description": "-Fixed Bug\n-Add News Feature",
         "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/blob/master/kc/kc_20.11.1.apk?raw=true",
-        "UpdateRequired": false
+        "UpdateRequired": true
     }
 }
