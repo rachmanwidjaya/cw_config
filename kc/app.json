@@ -3,7 +3,7 @@
     "message": "Request Acepted",
     "content": {
         "version": "20.11.0",
-        "build": 20111,
+        "build": 20110,
         "description": "-Fixed Bug\n-Add News Feature",
         "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/blob/master/kc/kc_20.11.1.apk?raw=true",
         "UpdateRequired": false
