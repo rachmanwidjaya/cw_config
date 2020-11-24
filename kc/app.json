@@ -2,11 +2,11 @@
     "status": true,
     "message": "Request Acepted",
     "content": {
-        "version": "20.11.1",
-        "build": 20111,
+        "version": "20.11.2",
+        "build": 20112,
         "description": "-Fixed Bug\n-Add Adult Content Warning\n-Add New Bug For fix Later",
-        "UpdateLink": "https://google.com/",
-        "UpdateRequired": false
+        "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/raw/master/kc/kc_v20.11.2.apk",
+        "UpdateRequired": true
     },
     "about": {
         "content": [
