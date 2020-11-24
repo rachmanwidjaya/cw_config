@@ -6,7 +6,7 @@
         "build": 20113,
         "description": "-Fixed Bug\n-Add Adult Content Warning\n-Add New Bug For fix Later",
         "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/raw/master/kc/kc_v20.11.2.apk",
-        "UpdateRequired": false
+        "UpdateRequired": true
     },
     "about": {
         "content": [
