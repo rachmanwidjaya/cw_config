@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "message": "Request Acepted",
+    "content": {
+        "version": "21.01.0",
+        "build": 21010,
+        "description": "-Fixed Bug\n-Add Adult Content Warning\n-Add New Bug For fix Later",
+        "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/blob/master/kc/kc_v_20.11.3.apk",
+        "UpdateRequired": false
+    },
+    "about": {
+        "content": [
+            "Aplikasi ini dibuat berdasarkan kegabutan",
+			"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+             ],
+        "images": [
+            "https://raw.githubusercontent.com/rachmanwidjaya/cw_config/master/kc/dk2.png",
+            "https://raw.githubusercontent.com/rachmanwidjaya/cw_config/master/kc/ct.ico"
+        ]
+    }
+}
