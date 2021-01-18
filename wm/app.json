@@ -2,11 +2,11 @@
     "status": true,
     "message": "Request Acepted",
     "content": {
-        "version": "21.01.0",
-        "build": 21010,
-        "description": "-Fixed Bug\n-Add Adult Content Warning\n-Add New Bug For fix Later",
-        "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/blob/master/kc/kc_v_20.11.3.apk",
-        "UpdateRequired": false
+        "version": "21.01.1",
+        "build": 21011,
+        "description": "-Fixed Bug\n-Add Adult Content Warning\n-Add Disqus\n-Add Chatango\n-Add New Bug For fix Later",
+        "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/raw/master/wm/West_Manga_v_21.01.1.apk",
+        "UpdateRequired": true
     },
     "about": {
         "content": [
