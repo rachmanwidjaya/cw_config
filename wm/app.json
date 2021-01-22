@@ -4,8 +4,8 @@
     "content": {
         "version": "21.01.2",
         "build": 21012,
-        "description": "-Fixed Bug\n-Add Adult Content Warning\n-Add Disqus\n-Add Chatango\n-Add New Bug For fix Later",
-        "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/raw/master/wm/West_Manga_v_21.01.2.apk",
+        "description": "-Fixed Bug\n-Add Filter\n-Add Adult Content Warning\n-Add Disqus\n-Add Chatango\n-Add New Bug For fix Later",
+        "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/raw/master/wm/West_Manga_v_21.01.3.apk",
         "UpdateRequired": true
     },
     "about": {
