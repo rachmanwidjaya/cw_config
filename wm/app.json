@@ -8,6 +8,9 @@
         "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/raw/master/wm/West_Manga_v_21.01.4.apk",
         "UpdateRequired": true
     },
+	"splash":{
+		"image": "https://westmanga.info/wp-content/uploads/2021/01/LOGOxx-1.png"
+	},
     "about": {
         "content": [
             "Aplikasi ini dibuat berdasarkan kegabutan",
