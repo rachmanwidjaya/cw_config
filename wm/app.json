@@ -4,12 +4,11 @@
 	"open": true,
 	"close-message": "",
     "content": {
-        "version": "21.02.0",
-        "build": 21020,
-        "title": "New Update Available",
-        "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Backup\n-Restore\n-Download(beta)\n-Novel(beta)",
+        "version": "21.01.9",
+        "build": 21019,
+        "description": "-Fixed Bug\n-Add Filter\n-Add Adult Content Warning\n-Add Disqus\n-Add Chatango\n-Add New Bug For fix Later",
         "UpdateLink": "https://westmanga.info/apk/",
-        "UpdateRequired": false
+        "UpdateRequired": true
     },
 	"splash":{
 		"image": "https://westmanga.info/wp-content/uploads/2021/01/LOGOxx-1.png"
