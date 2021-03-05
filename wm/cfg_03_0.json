@@ -6,8 +6,8 @@
         "title": "Aplikasi Ditutup",
         "body": "Versi Test Dututup dulu ya ^_^"
     },
-    "nonel": false,
-    "bonus": false,
+    "nonel": true,
+    "bonus": true,
     "content": {
         "version": "21.02.0",
         "build": 21020,
