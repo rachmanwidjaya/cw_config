@@ -22,13 +22,18 @@
     },
     "curl": "",
     "image_curl": "",
-    "err": "https://assets3.lottiefiles.com/private_files/lf30_5lxknspz.json",
+    "err": "https://assets6.lottiefiles.com/private_files/lf30_tonsVH.json",
     "read": {
         "start": [],
         "end": []
     },
     "custom_ads": {
-        "home1": [],
+        "home1": [
+			{
+                "img": "https://i.postimg.cc/8zfhwJR1/adasa.png",
+                "target": "https://discord.gg/4F8XbdsX"
+            }
+		],
         "home2": [],
         "home3": [],
         "home4": [],
