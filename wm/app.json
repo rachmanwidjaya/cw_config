@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Request Acepted",
-	"open": true,
-	"close-message": "",
+	"open": false,
+	"close-message": "Aplikasi Versi Ini Ditutup\nSilahkan Download Versi Terbaru",
     "content": {
         "version": "21.02.1",
         "build": 21021,
