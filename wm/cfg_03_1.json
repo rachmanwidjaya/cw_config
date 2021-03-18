@@ -43,14 +43,14 @@
         "details2": []
     },
     "ads": {
-        "item": 5,
+        "item": 0,
         "interasial": 10,
         "reward": 3,
         "id": {
             "admob": {
-                "banner": "ca-app-pub-3940256099942544/6300978111",
-                "interstitial": "ca-app-pub-3940256099942544/1033173712",
-                "reward": "ca-app-pub-3940256099942544/5224354917"
+                "banner": "ca-app-pub-9255764826862222/2516570329",
+                "interstitial": "ca-app-pub-9255764826862222/8172221688",
+                "reward": "ca-app-pub-9255764826862222/3527056208"
             },
             "iron-source": {
                 "id": "e9b4cac1"
