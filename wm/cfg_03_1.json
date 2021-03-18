@@ -44,8 +44,8 @@
     },
     "ads": {
         "item": 5,
-        "interasial": 20,
-        "reward": 5,
+        "interasial": 10,
+        "reward": 3,
         "id": {
             "admob": {
                 "banner": "ca-app-pub-3940256099942544/6300978111",
