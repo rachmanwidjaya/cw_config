@@ -24,7 +24,11 @@
     "image_curl": "",
     "err": "https://assets6.lottiefiles.com/temp/lf20_Jlg1O6.json",
     "read": {
-        "start": [],
+        "start": [
+            {
+                "img": "https://i.postimg.cc/WzbbPWJJ/FB-IMG-1616485476350.jpg",
+                "target": null
+            }],
         "end": []
     },
     "custom_ads": {
