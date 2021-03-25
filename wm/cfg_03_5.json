@@ -12,8 +12,8 @@
     "mb": true,
     "mp": true,
     "content": {
-        "version": "21.02.0",
-        "build": 21020,
+        "version": "21.03.5",
+        "build": 21035,
         "title": "New Update Available",
         "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Backup\n-Restore\n-Download(beta)\n-Novel(beta)",
         "UpdateLink": "https://westmanga.info/apk/",
@@ -31,7 +31,12 @@
         "end": []
     },
     "custom_ads": {
-        "home1": [],
+        "home1": [
+		{
+                "img": "https://i.postimg.cc/s2PyF2qd/imgonline-com-ua-twotoone-ahe1kiwq-Bc-O.png",
+                "target": "https://discord.gg/7NZEZ7ycmf"
+				}
+		],
         "home2": [],
         "home3": [],
         "home4": [],
