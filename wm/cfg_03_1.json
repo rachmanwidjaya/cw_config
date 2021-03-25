@@ -9,10 +9,10 @@
     "nonel": true,
     "bonus": true,
     "content": {
-        "version": "21.02.1",
-        "build": 21021,
+        "version": "21.05.5",
+        "build": 21035,
         "title": "New Update Available",
-        "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Backup\n-Restore\n-Download(beta)\n-Novel(beta)",
+        "description": "-Fixed Bug\n-Perbaikan Tampilan\nTambahan Banyak pilihan thema\nBanyak Bonus",
         "UpdateLink": "https://westmanga.info/apk/",
         "UpdateRequired": false
     },
