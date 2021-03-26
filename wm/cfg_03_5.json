@@ -12,10 +12,10 @@
     "mb": true,
     "mp": true,
     "content": {
-        "version": "21.03.5",
-        "build": 21035,
+        "version": "21.03.6",
+        "build": 21036,
         "title": "New Update Available",
-        "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Backup\n-Restore\n-Download(beta)\n-Novel(beta)",
+        "description": "Menghapus iklan pada halaman baca",
         "UpdateLink": "https://westmanga.info/apk/",
         "UpdateRequired": false
     },
