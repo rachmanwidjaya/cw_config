@@ -9,12 +9,12 @@
     "nonel": true,
     "bonus": true,
     "content": {
-        "version": "21.05.5",
-        "build": 21035,
+        "version": "21.05.6",
+        "build": 21036,
         "title": "New Update Available",
-        "description": "-Fixed Bug\n-Perbaikan Tampilan\nTambahan Banyak pilihan thema\nBanyak Bonus",
+        "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Tambahan Banyak pilihan thema\n-Banyak Bonus",
         "UpdateLink": "https://westmanga.info/apk/",
-        "UpdateRequired": false
+        "UpdateRequired": true
     },
     "splash": {
         "image": "https://westmanga.info/wp-content/uploads/2021/01/LOGOxx-1.png",
