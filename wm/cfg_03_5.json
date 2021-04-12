@@ -17,7 +17,7 @@
         "title": "New Update Available",
         "description": "Menghapus iklan pada halaman baca",
         "UpdateLink": "https://westmanga.info/apk/",
-        "UpdateRequired": false
+        "UpdateRequired": true
     },
     "splash": {
         "image": "https://westmanga.info/wp-content/uploads/2021/01/LOGOxx-1.png",
