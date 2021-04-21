@@ -29,8 +29,8 @@
     "read": {
         "start": [
             {
-                "img": "https://i.postimg.cc/DyKLzCWH/Uddddntitled-1.jpg",
-                "target": "https://westmanga.info/recruitment/"
+                "img": "https://i.postimg.cc/mkNJvVtY/Under-Maintenance.png",
+                "target": null
             }
         ],
         "end": []
@@ -38,11 +38,15 @@
     "custom_ads": {
         "home1": [
             {
-                "img": "https://i.postimg.cc/9XYB550z/benner-ramadhan.png",
+                "img": "https://i.postimg.cc/mkNJvVtY/Under-Maintenance.png",
                 "target": null
             }
         ],
         "home2": [
+			{
+                "img": "https://i.postimg.cc/s2PyF2qd/imgonline-com-ua-twotoone-ahe1kiwq-Bc-O.png",
+                "target": null
+            },
             {
                 "img": "https://i.postimg.cc/s2PyF2qd/imgonline-com-ua-twotoone-ahe1kiwq-Bc-O.png",
                 "target": "https://discord.gg/7NZEZ7ycmf"
