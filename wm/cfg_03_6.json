@@ -33,7 +33,12 @@
                 "target": "https://westmanga.info/recruitment/"
             }
         ],
-        "end": []
+        "end": [
+			{
+				"img": "https://i.postimg.cc/jSm2gFBW/IMG-20210422-165112.jpg",
+				"target": null
+			}
+		]
     },
     "custom_ads": {
         "home1": [
