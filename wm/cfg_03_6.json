@@ -29,8 +29,8 @@
     "read": {
         "start": [
             {
-                "img": "https://i.postimg.cc/mkNJvVtY/Under-Maintenance.png",
-                "target": null
+                "img": "https://i.postimg.cc/DyKLzCWH/Uddddntitled-1.jpg",
+                "target": "https://westmanga.info/recruitment/"
             }
         ],
         "end": []
@@ -38,7 +38,7 @@
     "custom_ads": {
         "home1": [
             {
-                "img": "https://i.postimg.cc/mkNJvVtY/Under-Maintenance.png",
+                "img": "https://i.postimg.cc/9XYB550z/benner-ramadhan.png",
                 "target": null
             }
         ],
@@ -58,7 +58,7 @@
     "ads": {
         "item": 5,
         "interasial": 20,
-        "reward": 1,
+        "reward": 2,
         "id": {
             "admob": {
                 "banner": [
