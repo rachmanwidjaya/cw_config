@@ -27,12 +27,7 @@
     "image_curl": "",
     "err": "https://assets6.lottiefiles.com/temp/lf20_Jlg1O6.json",
     "read": {
-        "start": [
-            {
-                "img": "https://i.postimg.cc/DyKLzCWH/Uddddntitled-1.jpg",
-                "target": "https://westmanga.info/recruitment/"
-            }
-        ],
+        "start": [],
         "end": [
             {
                 "img": "https://i.postimg.cc/431kKn52/402.jpg",
