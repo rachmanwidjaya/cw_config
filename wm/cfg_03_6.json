@@ -12,12 +12,12 @@
     "mb": true,
     "mp": true,
     "content": {
-        "version": "21.03.6",
-        "build": 21036,
+        "version": "21.04.0",
+        "build": 21040,
         "title": "New Update Available",
-        "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Backup\n-Restore\n-Download(beta)\n-Novel(beta)",
-        "UpdateLink": "https://westmanga.info/apk/",
-        "UpdateRequired": false
+        "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Perbaikan Pada Novel",
+        "UpdateLink": "https://docs.google.com/uc?export=download&id=1o0tJeYnov3kNUFW1w_8p86G178Z-8acI",
+        "UpdateRequired": true
     },
     "splash": {
         "image": "https://westmanga.info/wp-content/uploads/2021/01/LOGOxx-1.png",

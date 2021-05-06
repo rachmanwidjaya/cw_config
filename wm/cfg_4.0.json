@@ -20,7 +20,7 @@
         "UpdateLink": "https://westmanga.info/apk/",
         "UpdateRequired": false
     },
-    "start-dialog": true,
+    "start-dialog": false,
     "dialog": {
         "img": "https://thumbs.gfycat.com/ComposedAfraidIcelandicsheepdog-size_restricted.gif",
         "target": null
@@ -33,18 +33,8 @@
     "image_curl": "",
     "err": "https://assets6.lottiefiles.com/temp/lf20_Jlg1O6.json",
     "read": {
-        "start": [
-            {
-                "img": "https://4youscan.xyz/wp-content/uploads/2021/05/720-x-90-2-compressed.gif",
-                "target": null
-            }
-        ],
-        "end": [
-            {
-                "img": "https://4youscan.xyz/wp-content/uploads/2021/05/720-x-90-agen138-compressed.gif",
-                "target": null
-            }
-        ]
+        "start": [],
+        "end": []
     },
     "custom_ads": {
         "home1": [
@@ -53,48 +43,13 @@
                 "target": null
             }
         ],
-        "home2": [
-            {
-                "img": "https://4youscan.xyz/wp-content/uploads/2021/05/720-x-90-2-compressed.gif",
-                "target": null
-            }
-        ],
-        "home3": [
-            {
-                "img": "https://4youscan.xyz/wp-content/uploads/2021/05/720-x-90-agen138-compressed.gif",
-                "target": null
-            }
-        ],
-        "home4": [
-            {
-                "img": "https://4youscan.xyz/wp-content/uploads/2021/05/720-x-90-2-compressed.gif",
-                "target": null
-            }
-        ],
-        "home5": [
-            {
-                "img": "https://4youscan.xyz/wp-content/uploads/2021/05/720-x-90-agen138-compressed.gif",
-                "target": null
-            }
-        ],
-        "home6": [
-            {
-                "img": "https://4youscan.xyz/wp-content/uploads/2021/05/720-x-90-2-compressed.gif",
-                "target": null
-            }
-        ],
-        "details1": [
-            {
-                "img": "https://4youscan.xyz/wp-content/uploads/2021/05/720-x-90-2-compressed.gif",
-                "target": null
-            }
-        ],
-        "details2": [
-            {
-                "img": "https://4youscan.xyz/wp-content/uploads/2021/05/720-x-90-agen138-compressed.gif",
-                "target": null
-            }
-        ]
+        "home2": [],
+        "home3": [],
+        "home4": [],
+        "home5": [],
+        "home6": [],
+        "details1": [],
+        "details2": []
     },
     "ads": {
         "item": 5,
