@@ -13,11 +13,11 @@
     "mb": true,
     "mp": true,
     "content": {
-        "version": "21.03.6",
-        "build": 21036,
+        "version": "21.04.1",
+        "build": 21041,
         "title": "New Update Available",
-        "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Backup\n-Restore\n-Download(beta)\n-Novel(beta)",
-        "UpdateLink": "https://westmanga.info/apk/",
+        "description": "-Solusi Sementara untuk yang tidak bisa ganti thema gelap",
+        "UpdateLink": "https://docs.google.com/uc?export=download&id=1k-d-CuDsBs7T2iHxPRN_vfyaHM7pTOpe",
         "UpdateRequired": false
     },
     "start-dialog": false,
