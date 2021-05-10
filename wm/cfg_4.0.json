@@ -13,12 +13,12 @@
     "mb": true,
     "mp": true,
     "content": {
-        "version": "21.04.1",
-        "build": 21041,
+        "version": "21.04.2",
+        "build": 21042,
         "title": "New Update Available",
-        "description": "-Solusi Sementara untuk yang tidak bisa ganti thema gelap",
-        "UpdateLink": "https://docs.google.com/uc?export=download&id=1k-d-CuDsBs7T2iHxPRN_vfyaHM7pTOpe",
-        "UpdateRequired": false
+        "description": "-Perbaikan masalah Thema\n-Custom Font dan Background Pada Halaman Baca Novel",
+        "UpdateLink": "https://docs.google.com/uc?export=download&id=1y3HkSVnSgLLZUdV9y1edHUq9VmittCdJ",
+        "UpdateRequired": true
     },
     "start-dialog": false,
     "dialog": {

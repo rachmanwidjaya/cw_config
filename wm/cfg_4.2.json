@@ -21,7 +21,7 @@
         "UpdateLink": "https://westmanga.info/apk/",
         "UpdateRequired": false
     },
-    "start-dialog": true,
+    "start-dialog": false,
     "dialog": {
         "img": "https://media.discordapp.net/attachments/787169225894002718/841336403631931433/20210510_222809.png?width=467&height=467",
         "target": null
@@ -40,7 +40,7 @@
     "custom_ads": {
         "home1": [
             {
-                "img": "https://cdn.discordapp.com/attachments/787169225894002718/841323594209558548/20210510_213647.png",
+                "img": "https://i.postimg.cc/9XYB550z/benner-ramadhan.png",
                 "target": null
             }
         ],
