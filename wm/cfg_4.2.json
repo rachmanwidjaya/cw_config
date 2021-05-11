@@ -108,20 +108,20 @@
                     "banner6"
                 ],
                 "interstitial": [
+                    "video",
                     "in",
                     "in1",
                     "in2",
                     "in3",
-                    "in4",
-                    "video"
+                    "in4"
                 ],
                 "reward": [
+                    "rewardedVideo",
                     "Reward1",
                     "rw1",
                     "rw2",
                     "rw3",
-                    "rw4",
-                    "rewardedVideo"
+                    "rw4"
                 ]
             }
         }
