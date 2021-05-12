@@ -21,7 +21,7 @@
         "UpdateLink": "https://westmanga.info/apk/",
         "UpdateRequired": false
     },
-    "start-dialog": false,
+    "start-dialog": true,
     "dialog": {
         "img": "https://media.discordapp.net/attachments/787169225894002718/841336403631931433/20210510_222809.png?width=467&height=467",
         "target": null
@@ -38,7 +38,12 @@
         "end": []
     },
     "custom_ads": {
-        "home1": [],
+        "home1": [
+		{
+                "img": "https://i.postimg.cc/hjJ2WMB5/5-1-Banner-Atas.png",
+                "target": null
+            }
+		],
         "home2": [
             {
                 "img": "https://i.postimg.cc/s2PyF2qd/imgonline-com-ua-twotoone-ahe1kiwq-Bc-O.png",
