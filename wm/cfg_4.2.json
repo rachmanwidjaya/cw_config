@@ -34,12 +34,17 @@
     "image_curl": "",
     "err": "https://assets9.lottiefiles.com/packages/lf20_GIyuXJ.json",
     "read": {
-        "start": [],
+        "start": [
+			{
+                "img": "https://media.discordapp.net/attachments/787169225894002718/842027982460551198/Slide_16_9_-_2_1.png?width=830&height=467",
+                "target": null
+            }
+		],
         "end": []
     },
     "custom_ads": {
         "home1": [
-		{
+			{
                 "img": "https://i.postimg.cc/hjJ2WMB5/5-1-Banner-Atas.png",
                 "target": null
             }
