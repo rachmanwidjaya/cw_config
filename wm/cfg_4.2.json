@@ -27,7 +27,7 @@
         "target": null
     },
     "splash": {
-        "image": "https://media.discordapp.net/attachments/787169225894002718/843050029774143538/west-sekkusu-sample.png?width=935&height=136",
+        "image": "https://media.discordapp.net/attachments/824600294037913646/843110675882311680/west-sekkusu-white.png?width=979&height=143",
         "image2": null
     },
     "curl": "",
@@ -40,7 +40,12 @@
                 "target": null
             }
 		],
-        "end": []
+        "end": [
+			{
+                "img": "https://i.postimg.cc/nzrj2zWY/download.png",
+                "target": "https://discord.gg/ScSB38eT"
+            }
+		]
     },
     "custom_ads": {
         "home1": [
