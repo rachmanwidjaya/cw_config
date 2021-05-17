@@ -21,7 +21,7 @@
         "UpdateLink": "https://westmanga.info/apk/",
         "UpdateRequired": false
     },
-    "start-dialog": true,
+    "start-dialog": false,
     "dialog": {
         "img": "https://media.discordapp.net/attachments/787169225894002718/841336403631931433/20210510_222809.png?width=467&height=467",
         "target": null
@@ -34,12 +34,7 @@
     "image_curl": "",
     "err": "https://assets9.lottiefiles.com/packages/lf20_GIyuXJ.json",
     "read": {
-        "start": [
-			{
-                "img": "https://media.discordapp.net/attachments/787169225894002718/842027982460551198/Slide_16_9_-_2_1.png?width=830&height=467",
-                "target": null
-            }
-		],
+        "start": [],
         "end": [
 			{
                 "img": "https://i.postimg.cc/nzrj2zWY/download.png",
@@ -48,12 +43,7 @@
 		]
     },
     "custom_ads": {
-        "home1": [
-			{
-                "img": "https://i.postimg.cc/hjJ2WMB5/5-1-Banner-Atas.png",
-                "target": null
-            }
-		],
+        "home1": [],
         "home2": [
             {
                 "img": "https://i.postimg.cc/s2PyF2qd/imgonline-com-ua-twotoone-ahe1kiwq-Bc-O.png",
