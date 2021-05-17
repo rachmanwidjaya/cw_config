@@ -126,13 +126,13 @@
                     "in4"
                 ],
                 "reward": [
-                    "rewardedVideo",
                     "Reward1",
                     "rw1",
                     "rw2",
                     "rw3",
                     "rw4",
 					"rw",
+                    "rewardedVideo",
 					"video"
                 ]
             }
