@@ -14,11 +14,11 @@
     "mb": true,
     "mp": true,
     "content": {
-        "version": "21.03.6",
-        "build": 21036,
+        "version": "21.05.1",
+        "build": 21051,
         "title": "New Update Available",
-        "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Backup\n-Restore\n-Download(beta)\n-Novel(beta)",
-        "UpdateLink": "https://westmanga.info/apk/",
+        "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Add Premium System",
+        "UpdateLink": "https://docs.google.com/uc?export=download&id=1g8PW_8eTnSdsN6B2CGXhxZa3Rut1zgFs",
         "UpdateRequired": false
     },
     "start-dialog": false,
