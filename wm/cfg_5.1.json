@@ -36,12 +36,7 @@
     "err": "https://assets9.lottiefiles.com/packages/lf20_GIyuXJ.json",
     "read": {
         "start": [],
-        "end": [
-            {
-                "img": "https://i.postimg.cc/nzrj2zWY/download.png",
-                "target": "https://discord.gg/ScSB38eT"
-            }
-        ]
+        "end": []
     },
     "custom_ads": {
         "home1": [
