@@ -29,7 +29,7 @@
     },
     "splash": {
         "image": "https://media.discordapp.net/attachments/824600294037913646/843110675882311680/west-sekkusu-white.png?width=979&height=143",
-        "image2": null
+        "image2": "https://westmanga.info/wp-content/uploads/2021/01/1610738860-6013-Lonely-Attack-on-a-Different-World.jpg"
     },
     "curl": "",
     "image_curl": "",
@@ -39,13 +39,13 @@
         "end": []
     },
     "custom_ads": {
-        "home1": [
+        "home1": [],
+        "home2": [
             {
-                "img": "https://i.postimg.cc/s2PyF2qd/imgonline-com-ua-twotoone-ahe1kiwq-Bc-O.png",
+                "img": "htthttps://media.discordapp.net/attachments/787169225894002718/845488487377010729/Tanpa_Shadow.png?width=979&height=196",
                 "target": "https://discord.gg/7NZEZ7ycmf"
             }
-        ],
-        "home2": [],
+		],
         "home3": [],
         "home4": [],
         "home5": [],
