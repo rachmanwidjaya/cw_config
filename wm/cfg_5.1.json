@@ -39,13 +39,13 @@
         "end": []
     },
     "custom_ads": {
-        "home1": [],
-        "home2": [
+        "home1": [
             {
                 "img": "https://media.discordapp.net/attachments/787169225894002718/845488487377010729/Tanpa_Shadow.png?width=979&height=196",
                 "target": "https://discord.gg/7NZEZ7ycmf"
             }
 		],
+        "home2": [],
         "home3": [],
         "home4": [],
         "home5": [],
