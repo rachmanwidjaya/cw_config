@@ -36,12 +36,7 @@
     "err": "https://assets9.lottiefiles.com/packages/lf20_GIyuXJ.json",
     "read": {
         "start": [],
-        "end": [
-            {
-                "img": "https://i.postimg.cc/wB3LkDRc/RC.png",
-                "target": "https://web.facebook.com/WestManga.info"
-            }
-        ]
+        "end": []
     },
     "custom_ads": {
         "home1": [
