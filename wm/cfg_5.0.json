@@ -14,11 +14,11 @@
     "mb": true,
     "mp": true,
     "content": {
-        "version": "21.05.1",
-        "build": 21051,
+        "version": "21.06.1",
+        "build": 21061,
         "title": "New Update Available",
 		"description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Penyempurnaan Fitur Download\n-Filter Source",
-        "UpdateLink": "https://docs.google.com/uc?export=download&id=1DLKsATcEUN88sLHyfkiShRst-N1sfU8s",
+        "UpdateLink": "https://docs.google.com/uc?export=download&id=19nf3hZZYLl4faqsTpn7LDKOCcbVd7c0Y",
         "UpdateRequired": true
     },
     "pr": "https://cunguk.website/pr/api/cekresult/",
