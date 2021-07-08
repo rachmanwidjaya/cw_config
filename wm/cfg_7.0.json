@@ -1,0 +1,115 @@
+{
+    "status": true,
+    "message": "Request Acepted",
+    "open": true,
+    "close-message": {
+        "title": "Aplikasi Ditutup",
+        "body": "Versi Test Dututup dulu ya ^_^"
+    },
+    "nonel": false,
+    "novel2":true,
+    "novel3": true,
+    "bonus": true,
+    "bonus2": true,
+    "bonus3": true,
+    "bonus4": true,
+    "bonus5": true,
+    "bonus6": true,
+    "komik": true,
+    "anime":true,
+    "anime2":true,
+    "mb": true,
+    "mp": true,
+    "content": {
+        "version": "21.03.6",
+        "build": 21036,
+        "title": "New Update Available",
+        "description": "-Fixed Bug\n-Perbaikan Tampilan\n-Peningkatan performa\n-Backup\n-Restore\n-Download(beta)\n-Novel(beta)",
+        "UpdateLink": "https://westmanga.info/apk/",
+        "UpdateRequired": false
+    },
+    "pr": "IrElD0vgdUjVTCjAFU0qck2LWklMLC83bEY/F28q7J5euGGZLLb6cyloknXE3TYyBNMER1LIH8NLMePWE0XsYUG6IXuF6O2kdAPICVHnzv3ts9YGAbw1w59+GjTS3UAc0Dma80e3aRdSBR7LwU3+rMo0nc3lwUZjobSGn7vkuRA=",
+    "start-dialog": false,
+    "dialog": {
+        "img": "http://i0.wp.com/konsultanseojakarta.com/wp-content/uploads/2016/10/place_ads_here.gif",
+        "target": "https://www.google.com/search?q=westmanga+ads&oq=westmanga+ads&aqs=chrome..69i57j69i64j69i60.5359j0j4&sourceid=chrome&ie=UTF-8"
+    },
+    "splash": {
+        "image": "https://media.discordapp.net/attachments/824600294037913646/843110675882311680/west-sekkusu-white.png?width=979&height=143",
+        "image2": null
+    },
+    "curl": "",
+    "image_curl": "",
+    "err": "https://assets9.lottiefiles.com/packages/lf20_GIyuXJ.json",
+    "read": {
+        "start": [],
+        "end": []
+    },
+    "custom_ads": {
+        "home1": [
+            {
+                "img": "https://media.discordapp.net/attachments/846175057596383242/850174476952010752/Frame_2_3.png?width=979&height=196",
+                "target": "https://discord.gg/7NZEZ7ycmf"
+            }
+        ],
+        "home2": [],
+        "home3": [],
+        "home4": [],
+        "home5": [],
+        "home6": [],
+        "details1": [],
+        "details2": []
+    },
+    "ads": {
+        "item": 5,
+        "interasial": 7,
+        "reward": 0,
+        "id": {
+            "unity": {
+                "bannerID": [
+                    "banner",
+                    "banner1",
+                    "banner2",
+                    "banner3",
+                    "banner4",
+                    "banner5",
+                    "banner6"
+                ],
+                "interstitial": [
+                    "in",
+                    "in1",
+                    "in2",
+                    "in3",
+                    "in4"
+                ],
+                "reward": [
+                    "Reward1",
+                    "rw1",
+                    "rw2",
+                    "rw3",
+                    "rw4",
+                    "rw",
+                    "rewardedVideo",
+                    "video"
+                ]
+            }
+        }
+    },
+    "bot": {
+        "bot1": {
+            "username": "Kang Lapor",
+            "link": "B9mGEcKv7pTVLUSsiXio0DtqT0/tIaf7j6uORFvL0WXzgDU8TyP16XH0L/zWuopd9V92Y7mBcWGDvbNlgWphVrMx/nQaYygXD8bRVY/VoxvNBD+dWHEnfSHmKhaVKULVsfvXHq78nvM9LK96QIO5jZQ8rYpAH6VN5rP37uTr8+KMxmosg1OXsBKAcFZyS6yPTjRSv55UxnlwvKf+0pfavfvIK7ox+F40uidxW3G+2SusxeV+Ov887N0aNXviGiCWea8DPtMrt9G+6dRF/eOhkz8cIPRRF5Dot0xCDj2vODDw4jtUaF9MuhLpLSegHLxOcPEsPk7NJyz3AZa/bPVNpsVMB7E/Mkz+s2yttDMZXjUTPSk5eRClVtCOZuhuXzTeCBBGkUMWHwS/yIEYLRbZponhHf5VQr54cY7jTw6y1Ocek3CrG24I7AioAne49TMM6LAz/YCpWvOvcHGV8qQPiVEgmZxHn3YFdBX7eQBYmIO1i2/+opTCLHZPNKaDB7xE",
+            "avatar_url": "https://i3.wp.com/westmanga.info/wp-content/uploads/2021/01/cropped-Untitled-1a-192x192.png"
+        },
+        "bot2": {
+            "username": "Kang Lapor Gambar Rusak",
+            "link": "B9mGEcKv7pTVLUSsiXio0DtqT0/tIaf7j6uORFvL0WXzgDU8TyP16XH0L/zWuopd9V92Y7mBcWGDvbNlgWphVrMx/nQaYygXD8bRVY/VoxvNBD+dWHEnfSHmKhaVKULVsfvXHq78nvM9LK96QIO5jZQ8rYpAH6VN5rP37uTr8+KMxmosg1OXsBKAcFZyS6yPTjRSv55UxnlwvKf+0pfavfvIK7ox+F40uidxW3G+2SusxeV+Ov887N0aNXviGiCWea8DPtMrt9G+6dRF/eOhkz8cIPRRF5Dot0xCDj2vODDw4jtUaF9MuhLpLSegHLxOcPEsPk7NJyz3AZa/bPVNpsVMB7E/Mkz+s2yttDMZXjUTPSk5eRClVtCOZuhuXzTeCBBGkUMWHwS/yIEYLRbZponhHf5VQr54cY7jTw6y1Ocek3CrG24I7AioAne49TMM6LAz/YCpWvOvcHGV8qQPiVEgmZxHn3YFdBX7eQBYmIO1i2/+opTCLHZPNKaDB7xE",
+            "avatar_url": "https://i.postimg.cc/SNtxVJFg/404-error-404-not-found-broken-or-deadlink-http-404-web-error-http-404-png-512-512.png"
+        },
+        "bot3": {
+            "username": "Kang Protes",
+            "link": "B9mGEcKv7pTVLUSsiXio0DtqT0/tIaf7j6uORFvL0WXzgDU8TyP16XH0L/zWuopd9V92Y7mBcWGDvbNlgWphVrMx/nQaYygXD8bRVY/VoxvNBD+dWHEnfSHmKhaVKULVsfvXHq78nvM9LK96QIO5jZQ8rYpAH6VN5rP37uTr8+KMxmosg1OXsBKAcFZyS6yPTjRSv55UxnlwvKf+0pfavfvIK7ox+F40uidxW3G+2SusxeV+Ov887N0aNXviGiCWea8DPtMrt9G+6dRF/eOhkz8cIPRRF5Dot0xCDj2vODDw4jtUaF9MuhLpLSegHLxOcPEsPk7NJyz3AZa/bPVNpsVMB7E/Mkz+s2yttDMZXjUTPSk5eRClVtCOZuhuXzTeCBBGkUMWHwS/yIEYLRbZponhHf5VQr54cY7jTw6y1Ocek3CrG24I7AioAne49TMM6LAz/YCpWvOvcHGV8qQPiVEgmZxHn3YFdBX7eQBYmIO1i2/+opTCLHZPNKaDB7xE",
+            "avatar_url": "https://i3.wp.com/westmanga.info/wp-content/uploads/2021/01/cropped-Untitled-1a-192x192.png"
+        }
+    }
+}
