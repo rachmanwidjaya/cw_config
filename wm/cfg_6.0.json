@@ -15,12 +15,12 @@
     "mb": true,
     "mp": true,
     "content": {
-        "version": "21.07.0",
-        "build": 21070,
+        "version": "21.06.1",
+        "build": 21061,
         "title": "New Update Available",
-        "description": "-Fixed Bug\n-Add Anime System\n-AddNovel",
-        "UpdateLink": "https://docs.google.com/uc?export=download&id=1KfiD7GBH6UD_lx07T8O9x8vQcQw7EoFC",
-        "UpdateRequired": false
+        "description": "-Fixed Bug",
+        "UpdateLink": "https://docs.google.com/uc?export=download&id=19nf3hZZYLl4faqsTpn7LDKOCcbVd7c0Y",
+        "UpdateRequired": true
     },
     "pr": "https://cunguk.website/pr/api/cekresult/",
     "start-dialog": false,
