@@ -1,10 +1,10 @@
 {
     "status": true,
     "message": "Request Acepted",
-    "open": true,
+    "open": false,
     "close-message": {
-        "title": "Aplikasi Ditutup",
-        "body": "Versi Test Dututup dulu ya ^_^"
+        "title": "Closed",
+        "body": "Silahkan Download Versi Terbaru di https://westmanga.info/apk ^_^"
     },
     "nonel": false,
     "bonus": true,
