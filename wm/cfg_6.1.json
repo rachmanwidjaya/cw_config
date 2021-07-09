@@ -22,7 +22,7 @@
         "title": "New Update Available",
         "description": "-Fixed Bug\n-Add Anime System\n-AddNovel",
         "UpdateLink": "https://docs.google.com/uc?export=download&id=1JKgfWDDUzJ7UHZ6ckKRI9dvGCXZEX9X3",
-        "UpdateRequired": false
+        "UpdateRequired": true
     },
     "pr": "https://cunguk.website/pr/api/cekresult/",
     "start-dialog": false,
