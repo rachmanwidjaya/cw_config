@@ -1,6 +1,6 @@
 {
-    "version-number": 100,
-    "min-version": 100,
+    "version-number": 101,
+    "min-version": 1001,
     "open": true,
     "closeMessage": "Aplikasi Ditutup Sementara",
     "link": "https://docs.google.com/uc?export=download&id=12_R7ykoLPa4B_6hElt6zw7t4Oa5dLhxT"
