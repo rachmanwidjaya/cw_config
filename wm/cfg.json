@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "message": "Request Acepted",
+  "open": true,
+  "close-message": {
+    "title": "Aplikasi Ditutup",
+    "body": "Versi Test Dututup dulu ya ^_^"
+  },
+  "nonel": true,
+  "novel2": true,
+  "novel3": true,
+  "bonus": true,
+  "bonus1": true,
+  "bonus2": true,
+  "bonus3": true,
+  "bonus4": true,
+  "bonus5": true,
+  "bonus6": true,
+  "bonus7": true,
+  "bonus8": true,
+  "bonus9": true,
+  "bonus10": true,
+  "komik": true,
+  "anime": true,
+  "anime2": true,
+  "anime3": true,
+  "anime4": true,
+  "mb": true,
+  "mp": true,
+  "filterImage": true,
+  "max-ad": 200,
+  "start-dialog": false,
+  "dialog": {
+    "img": "http://i0.wp.com/konsultanseojakarta.com/wp-content/uploads/2016/10/place_ads_here.gif",
+    "target": "https://www.google.com/search?q=westmanga+ads&oq=westmanga+ads&aqs=chrome..69i57j69i64j69i60.5359j0j4&sourceid=chrome&ie=UTF-8"
+  },
+  "splash": {
+    "image": "https://media.discordapp.net/attachments/824600294037913646/843110675882311680/west-sekkusu-white.png?width=979&height=143",
+    "image2": null
+  },
+  "curl": "",
+  "image_curl": "",
+  "err": "https://assets9.lottiefiles.com/packages/lf20_GIyuXJ.json",
+  "img-err": "https://i.postimg.cc/636VtR0n/Pngtree-cross-on-a-red-circle-5990778.png",
+  "read": {
+    "start": [],
+    "end": []
+  },
+  "custom_ads": {
+    "home1": [],
+    "home2": [],
+    "home3": [],
+    "home4": [],
+    "home5": [],
+    "home6": [],
+    "details1": [],
+    "details2": []
+  },
+  "ads": {
+    "item": 5,
+    "interasial": 4,
+    "reward": 0,
+    "id": {
+      "unity": {
+        "bannerID": [
+          "home",
+          "banner1",
+          "banner2",
+          "banner3",
+          "banner4",
+          "banner5",
+          "banner6"
+        ],
+        "interstitial": [
+          "video",
+          "rewardedVideo",
+          "rw",
+          "rw1",
+          "rw2",
+          "rw3",
+          "rw4",
+          "newreward",
+          "in1",
+          "in2",
+          "in3",
+          "in4",
+          "Reward1"
+        ],
+        "reward": [
+          "rw",
+          "rw1",
+          "rw2",
+          "rw3",
+          "rw4",
+          "newreward",
+          "video",
+          "rewardedVideo",
+          "rw",
+          "rw1",
+          "rw2",
+          "rw3",
+          "rw4",
+          "newreward",
+          "in1",
+          "in2",
+          "in3",
+          "in4",
+          "Reward1"
+        ]
+      }
+    }
+  }
+}
