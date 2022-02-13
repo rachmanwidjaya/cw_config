@@ -47,7 +47,12 @@
     "end": []
   },
   "custom_ads": {
-    "home1": [],
+    "home1": [
+		{
+			"img": "https://i.postimg.cc/s2Y6CWg9/Screenshot-8.png",
+			"target": null
+		}
+	],
     "home2": [],
     "home3": [],
     "home4": [],
