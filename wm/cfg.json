@@ -53,7 +53,12 @@
 			"target": null
 		}
 	],
-    "home2": [],
+    "home2": [
+		{
+			"img": "https://i.postimg.cc/m2w9kk00/ezgif-2-e2b5a232aa.gif",
+			"target": "https://docs.google.com/uc?export=download&id=1M7ybpBxS1bA6kZp9zikldyP9UVaYWKSd"
+      }
+	],
     "home3": [],
     "home4": [],
     "home5": [],
