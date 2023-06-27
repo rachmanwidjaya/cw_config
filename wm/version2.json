@@ -5,5 +5,36 @@
     "link": "https://docs.google.com/uc?export=download&id=1XJwtc_ELBMIaaqdQvo0teML-Ry8N1rI4",
     "manage": true,
     "exp": 1672531200,
-    "pr": "https://bg.cunguk1.my.id/pr/api/"
+    "pr": "https://bg.cunguk1.my.id/pr/api/",
+    "ads": {
+        "interasial": 3,
+        "reward": 1
+    },
+    "carousel": [
+        {
+            "imageUrl": "https://i.postimg.cc/KvqsHwPw/Banner-Discord-WM-V-3.png",
+            "type": 0,
+            "target": "https://discord.gg/xShMxD7tUy"
+        },
+        {
+            "imageUrl": "https://i.postimg.cc/h4CrDxX7/Banner-Facebook-WM-V-3.png",
+            "type": 0,
+            "target": "https://www.facebook.com/WestManga.info"
+        },
+        {
+            "imageUrl": "https://i.postimg.cc/rw1dkH3T/channels4-banner.jpg",
+            "type": 0,
+            "target": "https://www.youtube.com/@WilmaMiashi"
+        },
+        {
+            "imageUrl": "https://i.postimg.cc/m2w9kk00/ezgif-2-e2b5a232aa.gif",
+            "type": 0,
+            "target": "https://docs.google.com/uc?export=download&id=13mWYbGWKdOqTQ8XJyzslUuROx2I5erzb"
+        },
+        {
+            "imageUrl": "https://i.postimg.cc/JhSZjFwv/Screenshot-2.png",
+            "type": 0,
+            "target": null
+        }
+    ]
 }
