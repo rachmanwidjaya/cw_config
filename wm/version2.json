@@ -1,11 +1,12 @@
 {
-    "version-number": 23122,
-    "min-version": 23122,
+    "version-number": 23123,
+    "min-version": 23123,
     "open": true,
-    "link": "https://docs.google.com/uc?export=download&id=1X7Z3wkKDd2qi61xpwsiYNPD6lbdu7wA8",
+    "link": "https://docs.google.com/uc?export=download&id=1XEQoJyLGlIoLDDpz8K2ttu98daMxyCol",
     "manage": true,
     "exp": 1672531200,
     "pr": "https://cunguk2.my.id/bg/api/",
+    "use_fq": false,
     "ads": {
         "interasial": 3,
         "reward": 1
